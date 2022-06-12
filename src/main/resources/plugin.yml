@@ -1,0 +1,10 @@
+name: RIS
+version: '${project.version}'
+main: ris.ris.RIS
+authors: [ Mirk ]
+description: Respawn in spectator
+commands:
+  back:
+    description: A command used to get back to the last location after dying.
+  ris:
+    description: Main command of RIS plugin.

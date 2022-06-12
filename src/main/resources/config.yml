@@ -1,0 +1,14 @@
+# Permissions #
+
+permissions:
+  admin: ris.admin
+  command: ris.command
+
+
+# Messages #
+
+messages:
+  success: '&aSuccessfully sent you back.'
+  fail: '&cYou have not died yet.'
+  missing-permission: '&cYou do not have enough permissions to use this command.'
+  death: '&a%attacker% &ehas killed &c%victim%'
